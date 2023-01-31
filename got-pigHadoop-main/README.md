@@ -1,4 +1,4 @@
-<h1 align="center">Toanalyze Game of Thrones Dataset</h1>
+<h1 align="center">To analyze Game of Thrones Dataset</h1>
 
 **Commands to run**
 
